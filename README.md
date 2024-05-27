@@ -1,2 +1,2 @@
 # HangmanGameJS
-Hangman Game in JS
+I created this project during my JavaScript bootcamp, taught by Andrew Mead on Udemy. 
